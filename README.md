@@ -2,7 +2,7 @@
 - 👀 I’m interested in game and app development
 - 🌱 I’m currently learning C# and Unity
 - 💞️ I’m looking/will be looking to collaborate on my game "Phantom Breakout" (name not final)
-- 📫 How to reach me: (discord.value = "Quate#1867"), (reddit.value = "GlitchRedditor"), (twitter.value = "@GlitchNitch")
+- 📫 How to reach me: (discord.Value = "Quate#1867"), (reddit.Value = "GlitchRedditor"), (twitter.Value = "@GlitchNitch")
 
 <!---
 MilkVanillaCode/MilkVanillaCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
